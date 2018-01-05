@@ -43,6 +43,7 @@ $bgcolor--marines: #CC101F;
 
 .reveal {
   .slide-background { transition: background 1s ease; }
+  
   @include background(3, 'california.jpg', overlay);
   @include background(4, 'marines.jpg', overlay, .66, .75, $bgcolor--marines);
   @include background(5, 'college.jpg', overlay, .66, .15);
@@ -58,7 +59,6 @@ $bgcolor--marines: #CC101F;
 /* ==========================================================================
  *  Typography
  ========================================================================= */
-
 
 :root {
   font-family: $sans;
@@ -110,22 +110,22 @@ h3 { font-size: 1.777em; }
 h4 { font-size: 1.333em; }
 
 p {
-  letter-spacing: -.1vw;
+  letter-spacing: -.1em;
   font-family: $sans;
   font-size: 4vw;
 }
 
 blockquote {
   font-family: $serif;
-  font-size: 3.5vw;
+  font-size: 3rem;
   font-style: italic;
   line-height: 1.4;
 }
 
-
 em {
   font-style: italic !important;
 }
+
 small, .text--small { font-size: 0.75em; }
 
 /* ==========================================================================
