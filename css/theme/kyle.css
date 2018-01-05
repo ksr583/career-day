@@ -12,67 +12,67 @@
     transition: background 1s ease; }
   .reveal .backgrounds > .slide-background:nth-child(3) {
     background-color: #696B76;
-    background-image: linear-gradient(rgba(105, 107, 118, 0.66), rgba(105, 107, 118, 0.66)), url(/images/california.jpg);
+    background-image: linear-gradient(rgba(105, 107, 118, 0.66), rgba(105, 107, 118, 0.66)), url(https://s3.us-east-2.amazonaws.com/kyle-public/images/california.jpg);
     background-size: cover;
     background-blend-mode: overlay;
     opacity: 0.15; }
   .reveal .backgrounds > .slide-background:nth-child(4) {
     background-color: #CC101F;
-    background-image: linear-gradient(rgba(204, 16, 31, 0.66), rgba(204, 16, 31, 0.66)), url(/images/marines.jpg);
+    background-image: linear-gradient(rgba(204, 16, 31, 0.66), rgba(204, 16, 31, 0.66)), url(https://s3.us-east-2.amazonaws.com/kyle-public/images/marines.jpg);
     background-size: cover;
     background-blend-mode: overlay;
     opacity: 0.75; }
   .reveal .backgrounds > .slide-background:nth-child(5) {
     background-color: #696B76;
-    background-image: linear-gradient(rgba(105, 107, 118, 0.66), rgba(105, 107, 118, 0.66)), url(/images/college.jpg);
+    background-image: linear-gradient(rgba(105, 107, 118, 0.66), rgba(105, 107, 118, 0.66)), url(https://s3.us-east-2.amazonaws.com/kyle-public/images/college.jpg);
     background-size: cover;
     background-blend-mode: overlay;
     opacity: 0.15; }
   .reveal .backgrounds > .slide-background:nth-child(6) {
     background-color: #696B76;
-    background-image: linear-gradient(rgba(105, 107, 118, 0.66), rgba(105, 107, 118, 0.66)), url(/images/gaming.jpg);
+    background-image: linear-gradient(rgba(105, 107, 118, 0.66), rgba(105, 107, 118, 0.66)), url(https://s3.us-east-2.amazonaws.com/kyle-public/images/gaming.jpg);
     background-size: cover;
     background-blend-mode: overlay;
     opacity: 0.15; }
   .reveal .backgrounds > .slide-background:nth-child(7) {
     background-color: #696B76;
-    background-image: linear-gradient(rgba(105, 107, 118, 0.66), rgba(105, 107, 118, 0.66)), url(/images/design.jpg);
+    background-image: linear-gradient(rgba(105, 107, 118, 0.66), rgba(105, 107, 118, 0.66)), url(https://s3.us-east-2.amazonaws.com/kyle-public/images/design.jpg);
     background-size: cover;
     background-blend-mode: overlay;
     opacity: 0.15; }
   .reveal .backgrounds > .slide-background:nth-child(9) {
     background-color: #696B76;
-    background-image: linear-gradient(rgba(105, 107, 118, 0.66), rgba(105, 107, 118, 0.66)), url(/images/create.jpg);
+    background-image: linear-gradient(rgba(105, 107, 118, 0.66), rgba(105, 107, 118, 0.66)), url(https://s3.us-east-2.amazonaws.com/kyle-public/images/create.jpg);
     background-size: cover;
     background-blend-mode: overlay;
     opacity: 0.15; }
   .reveal .backgrounds > .slide-background:nth-child(8) {
     background-color: #696B76;
-    background-image: linear-gradient(rgba(105, 107, 118, 0.66), rgba(105, 107, 118, 0.66)), url(/images/create.jpg);
+    background-image: linear-gradient(rgba(105, 107, 118, 0.66), rgba(105, 107, 118, 0.66)), url(https://s3.us-east-2.amazonaws.com/kyle-public/images/create.jpg);
     background-size: cover;
     background-blend-mode: overlay;
     opacity: 0.15; }
   .reveal .backgrounds > .slide-background:nth-child(11) {
     background-color: #696B76;
-    background-image: linear-gradient(rgba(105, 107, 118, 0.66), rgba(105, 107, 118, 0.66)), url(/images/shocking.jpg);
+    background-image: linear-gradient(rgba(105, 107, 118, 0.66), rgba(105, 107, 118, 0.66)), url(https://s3.us-east-2.amazonaws.com/kyle-public/images/shocking.jpg);
     background-size: cover;
     background-blend-mode: overlay;
     opacity: 0.5; }
   .reveal .backgrounds > .slide-background:nth-child(12) {
     background-color: #696B76;
-    background-image: linear-gradient(rgba(105, 107, 118, 0.66), rgba(105, 107, 118, 0.66)), url(/images/code.jpg);
+    background-image: linear-gradient(rgba(105, 107, 118, 0.66), rgba(105, 107, 118, 0.66)), url(https://s3.us-east-2.amazonaws.com/kyle-public/images/code.jpg);
     background-size: cover;
     background-blend-mode: overlay;
     opacity: 0.15; }
   .reveal .backgrounds > .slide-background:nth-child(13) {
     background-color: #696B76;
-    background-image: linear-gradient(rgba(105, 107, 118, 0.66), rgba(105, 107, 118, 0.66)), url(/images/build.jpg);
+    background-image: linear-gradient(rgba(105, 107, 118, 0.66), rgba(105, 107, 118, 0.66)), url(https://s3.us-east-2.amazonaws.com/kyle-public/images/build.jpg);
     background-size: cover;
     background-blend-mode: overlay;
     opacity: 0.15; }
   .reveal .backgrounds > .slide-background:nth-child(16) {
     background-color: #696B76;
-    background-image: linear-gradient(rgba(105, 107, 118, 0.66), rgba(105, 107, 118, 0.66)), url(/images/office.jpg);
+    background-image: linear-gradient(rgba(105, 107, 118, 0.66), rgba(105, 107, 118, 0.66)), url(https://s3.us-east-2.amazonaws.com/kyle-public/images/office.jpg);
     background-size: cover;
     background-blend-mode: overlay;
     opacity: 0.15; }
