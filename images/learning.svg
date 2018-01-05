@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="32px" height="32px" viewBox="0 0 32 32"><g  transform="translate(0, 0)">
-<circle data-color="color-2" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" cx="16" cy="4" r="3" stroke-linejoin="miter"/>
-<circle data-color="color-2" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" cx="4" cy="9" r="3" stroke-linejoin="miter"/>
-<circle data-color="color-2" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" cx="28" cy="9" r="3" stroke-linejoin="miter"/>
-<circle fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" cx="16" cy="17" r="5" stroke-linejoin="miter"/>
-<path fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" d="M6,29.356
-c0-2.025,1.507-3.722,3.517-3.972C11.17,25.178,13.362,25,16,25s4.83,0.178,6.483,0.384C24.493,25.634,26,27.331,26,29.356V31H6
-V29.356z" stroke-linejoin="miter"/>
-</g></svg>
