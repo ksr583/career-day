@@ -33,7 +33,7 @@ $bgcolor--marines: #CC101F;
     background-color: $color;
     background-image: 
       linear-gradient(rgba($color, $opacity), rgba($color, $opacity)),
-      url(/images/#{$image})
+      url(https://s3.us-east-2.amazonaws.com/kyle-public/images/#{$image})
       ;
     background-size: cover;
     background-blend-mode: $blendMode;
